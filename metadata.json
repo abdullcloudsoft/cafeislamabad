@@ -1,0 +1,6 @@
+{
+  "name": "ISLAMABAD CAFE",
+  "description": "Modern cafe and restaurant on Karnal Sher Khan Shaheed Road, Rawalpindi. Good Food. Good Coffee. Good Moments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
